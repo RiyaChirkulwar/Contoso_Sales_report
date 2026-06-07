@@ -218,9 +218,8 @@ Aspiring Data Analyst | Power BI Developer
 ---
 
 ## 📸 Dashboard Preview
+https://github.com/RiyaChirkulwar/Contoso_Sales_report/blob/main/Contoso_sales_report.png
 
-[Click here to preview image ] (https://github.com/RiyaChirkulwar/Contoso_Sales_report/blob/main/Contoso_sales_report.png)
----
 
 **Last Updated:** June 2026  
 **Status:** Active | Version 1.0
