@@ -209,8 +209,10 @@ This project demonstrates how Power BI transforms raw retail transaction data in
 **Riya Chirkulwar**  
 Aspiring Data Analyst | Power BI Developer
 
-📧 Email: [riyachirkulwar@gmail.com]  
-🔗 LinkedIn: [Your LinkedIn Profile] 
+📧 Email: riyachirkulwar@gmail.com  
+🔗 LinkedIn: [LinkedIn Profile] (www.linkedin.com/in/riyachirkulwar07)
+
+
 🐙 GitHub: [@RiyaChirkulwar](https://github.com/RiyaChirkulwar)
 
 ---
